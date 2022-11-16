@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programação 
 - 🌱 I’m currently learning Desenvolvimento FullStack
 
-## Olá,sou Viviane,Ando empolgada com minhas diárias descobertas  na tecnologia!
+## Olá, sou Viviane 
+## Ando empolgada com minhas diárias descobertas  na tecnologia!  
 <div align="center">
   <a href="https://github.com/Viviane-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viviane-Santos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
